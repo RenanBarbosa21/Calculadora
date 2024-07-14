@@ -1,0 +1,14 @@
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\bin\Debug\net8.0\treino01_C#.exe
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\bin\Debug\net8.0\treino01_C#.deps.json
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\bin\Debug\net8.0\treino01_C#.runtimeconfig.json
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\bin\Debug\net8.0\treino01_C#.dll
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\bin\Debug\net8.0\treino01_C#.pdb
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\obj\Debug\net8.0\treino01_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\obj\Debug\net8.0\treino01_C#.AssemblyInfoInputs.cache
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\obj\Debug\net8.0\treino01_C#.AssemblyInfo.cs
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\obj\Debug\net8.0\treino01_C#.csproj.CoreCompileInputs.cache
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\obj\Debug\net8.0\treino01_C#.dll
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\obj\Debug\net8.0\refint\treino01_C#.dll
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\obj\Debug\net8.0\treino01_C#.pdb
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\obj\Debug\net8.0\treino01_C#.genruntimeconfig.cache
+C:\Users\.qn7n\OneDrive\Documentos\C#\atividades\treino01_C#\treino01_C#\obj\Debug\net8.0\ref\treino01_C#.dll
